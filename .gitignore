@@ -1,0 +1,5 @@
+*.env
+*.csv
+*.parquet
+*.sh
+ny_taxi_postgres_data

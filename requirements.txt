@@ -1,0 +1,6 @@
+pandas==2.2.2
+pgcli==4.1.0
+psycopg2-binary==2.9.9
+parquet_tools==0.2.16
+pyarrow==17.0.0
+SQLAlchemy==2.0.31
